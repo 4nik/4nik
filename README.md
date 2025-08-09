@@ -91,9 +91,9 @@
 <h3 align="left">GitHub Stats:</h3>
 <p align="center">
   &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=4nik&show_icons=true&count_private=true&locale=en&cache_seconds=7200&v=1" alt="Anik" />
-  &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=4nik&layout=compact&locale=en&cache_seconds=7200&v=1" alt="Anik" />
+  &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=4nik&layout=donut&locale=en&cache_seconds=7200&v=1" alt="Anik" />
 </p>
 <br/>
 <p align="center">
-  <img align="center" src="https://streak-stats.demolab.com?user=4nik" alt="4nik" />
+  <img align="center" src="https://github-readme-streak-stats-eta-wine.vercel.app?user=4nik" alt="4nik" />
 </p>
