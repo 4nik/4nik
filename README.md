@@ -1,4 +1,5 @@
 ## Hi there 👋
+<img src="./assets/banner.png" alt="Github README.md banner img" />
 
 <!--
 **4nik/4nik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
