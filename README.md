@@ -13,10 +13,9 @@
 
 <br/>
 
-- 🔭 I’m currently working on a **tourism website**.
 - 🌱 I’m currently exploring **Next.js**.
 - 💬 Ask me about **React, JavaScript, Python and Web Development**.
-- 📫 How to reach me: **sajidhassananik@gmail.com**
+- 📫 <a href="mailto:sajidhassananik@gmail.com">Reach me out</a>
 
 <br/>
 
